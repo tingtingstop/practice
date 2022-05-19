@@ -1,2 +1,8 @@
 this is the third edit
+<<<<<<< HEAD
 Editing from B
+=======
+nice to meet you
+>>>>>>> e7a646368f4240c0dc7a6b4d60ff9043663cb37e
+Editing from B
+ nice to meet you
